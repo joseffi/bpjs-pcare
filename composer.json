@@ -1,6 +1,6 @@
 {
-    "name": "nsulistiyawan/bpjs",
-    "description": "Wrapper for BPJS Indonesia",
+    "name": "joseffi/bpjs-pcare",
+    "description": "Wrapper for BPJS Indonesia PCare",
     "type": "package",
     "authors": [
         {
